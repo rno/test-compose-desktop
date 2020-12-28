@@ -1,0 +1,9 @@
+node_modules
+.env
+Dockerfile
+docker-compose.yml
+.gradle
+.idea/*
+build
+.DS_Store
+._.DS_Store
